@@ -1,0 +1,125 @@
+ {
+  "foosball_players": [
+    {
+      "first_name": "Joel",
+      "last_name": "Sims",
+      "wins": 24,
+      "losses": 22,
+      "last_played": "Oct 05 2021",
+      "img": "dogOne.jpeg"
+    },
+    {
+      "first_name": "Winston",
+      "last_name": "Boyd",
+      "wins": 12,
+      "losses": 36,
+      "last_played": "Oct 04 2021",
+      "img": "dogTwo.jpeg"
+      
+    },
+    {
+      "first_name": "Armando",
+      "last_name": "Fitzgerald",
+      "wins": 32,
+      "losses": 12,
+      "last_played": "Oct 02 2021",
+      "img": "dogThree.jpeg"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Garner",
+      "wins": 23,
+      "losses": 32,
+      "last_played": "Oct 05 2021",
+      "img": "dogFour.jpeg"
+    },
+    {
+      "first_name": "Lynda",
+      "last_name": "Ford",
+      "wins": 27,
+      "losses": 22,
+      "last_played": "Oct 01 2021",
+      "img": "dogFive.jpeg"
+    },
+    {
+      "first_name": "Marvin",
+      "last_name": "Pierce",
+      "wins": 14,
+      "losses": 26,
+      "last_played": "Sep 29 2021",
+      "img": "dogSix.jpeg"
+    },
+    {
+      "first_name": "Leslie",
+      "last_name": "Barber",
+      "wins": 20,
+      "losses": 16,
+      "last_played": "Sep 30 2021",
+      "img": "dogSeven.jpeg"
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Gilbert",
+      "wins": 13,
+      "losses": 37,
+      "last_played": "Oct 05 2021",
+      "img": "dogEight.jpeg"
+    },
+    {
+      "first_name": "Gregg",
+      "last_name": "Dean",
+      "wins": 10,
+      "losses": 32,
+      "last_played": "Oct 03 2021",
+      "img": "dogNine.jpeg"
+    },
+    {
+      "first_name": "Brett",
+      "last_name": "Griffith",
+      "wins": 25,
+      "losses": 25,
+      "last_played": "Oct 02 2021",
+      "img": "dogTen.jpeg"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Warren",
+      "wins": 26,
+      "losses": 30,
+      "last_played": "Oct 01 2021",
+      "img": "dogEleven.jpeg"
+    },
+    {
+      "first_name": "Victor",
+      "last_name": "Miller",
+      "wins": 9,
+      "losses": 42,
+      "last_played": "Oct 03 2021",
+      "img": "dogTwelve.jpeg"
+    },
+    {
+      "first_name": "Kent",
+      "last_name": "Nunez",
+      "wins": 32,
+      "losses": 13,
+      "last_played": "Oct 05 2021",
+      "img": "dogThirteen.jpeg"
+    },
+    {
+      "first_name": "Dolores",
+      "last_name": "Vega",
+      "wins": 22,
+      "losses": 27,
+      "last_played": "Oct 02 2021",
+      "img": "dogFourteen.jpeg"
+    },
+    {
+      "first_name": "Ray",
+      "last_name": "Briggs",
+      "wins": 40,
+      "losses": 12,
+      "last_played": "Oct 03 2021",
+      "img": "dogFifteen.jpeg"
+    }
+  ]
+}
